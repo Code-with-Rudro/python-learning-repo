@@ -22,4 +22,14 @@ Focus: Python Programming & Project Development
 <br>
 Level Covered: Beginner → Intermediate → Advanced
 <br>
-thank you
+<br>
+<b>day-1</b>
+<br>
+learning git and git hub related topics,
+<br>
+<em>topics</em>
+<ol>
+<li>clone & status</li>
+<li>add $ commit</li>
+<li>push command</li>
+</ol>
