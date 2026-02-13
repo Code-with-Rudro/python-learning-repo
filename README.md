@@ -65,3 +65,12 @@ git push origin main
 <li>add $ commit</li>
 <li>push command</li>
 </ol>
+#day-2
+<br>
+<h3>learning topics</h3>
+<br>
+<ol>
+<li>init command </li>
+<li>branch command </li>
+</ol>
+
